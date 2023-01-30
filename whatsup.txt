@@ -9,3 +9,5 @@ This is whatsapp code
 4.sharing document feature
 
 5.calling feature.
+
+6.hiding last seen implemented
