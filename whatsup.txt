@@ -1,0 +1,11 @@
+This is whatsapp code
+
+1.chat feature
+
+2.profile feature
+
+3.privacy feature
+
+4.sharing document feature
+
+5.calling feature.
